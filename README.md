@@ -1,6 +1,6 @@
 <samp>
 
-  <h1> 👋 Hi, my name is Artur Amaral! </h1>
+  <h1> 👋 Hi, i'm Artur!! </h1>
 
 ##
 
