@@ -5,10 +5,11 @@
 ##
 
   <b> About me: </b><br>
-  🎓 Currently pursuing my degree in Computer Science at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
-  🖥️ Currently working as a software engineer at Metta Innovations <br>
-  🤩 Blablabla <br>
-  📖 Currently learning XYZ <br>
+  🖥️ Currently working as a software developer at [Metta Innovations](https://mettainnovations.com.br/en/) <br>
+  🎓 Pursuing my degree in Computer Science at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
+  💪🏻 Extensive experience in C/C++/Qt software development deployed in Linux environments <br>
+  💡 I've already worked professionally on computer vision, internet of things and embedded systems projects. <br>
+  📖 Currently experimenting with React and Node.js for web development. <br>
 
 ##
 
@@ -39,7 +40,7 @@
 
 <div align = "center"> 
     <b> Contact me: </b> <br>
-    <!-- <a href="mailto:artur.ht.amaral@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> -->
+    <a href="mailto:artur.ht.amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/artur-ht-amaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
