@@ -4,7 +4,7 @@
 
   <b> About me: </b><br>
   🎓 Currently pursuing my degree in Computer Science at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
-  🖥️ Currently working as a software engineer at Metta Innovations
+  🖥️ Currently working as a software engineer at Metta Innovations <br>
   🤩 Blablabla <br>
   📖 Currently learning XYZ <br>
 
@@ -15,8 +15,8 @@
 
 <div align = "center"> 
     <b> Contact me: </b> <br>
-    <a href="mailto:pedromateus18@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ormesino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="mailto:artur.ht.amaral@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ahtamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 </samp>
