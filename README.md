@@ -40,7 +40,7 @@
 <div align = "center"> 
     <b> Contact me: </b> <br>
     <!-- <a href="mailto:artur.ht.amaral@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> -->
-    <a href="https://www.linkedin.com/in/ahtamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/artur-ht-amaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 
