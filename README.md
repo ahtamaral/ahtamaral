@@ -5,7 +5,7 @@
 ##
 
   <b> About me: </b><br>
-  🖥️ Currently working as a software developer at [Metta Innovations](https://mettainnovations.com.br/en/) <br>
+  🖥️ Currently working as a software developer at [Metta Innovations](https://mettainnovations.com.br) <br>
   🎓 Pursuing my degree in Computer Science at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
   💪🏻 Extensive experience in C/C++/Qt software development deployed in Linux environments <br>
   💡 I've already worked professionally on computer vision, internet of things and embedded systems projects. <br>
