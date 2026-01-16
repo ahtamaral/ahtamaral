@@ -5,27 +5,23 @@
 ##
 
   <b> About me: </b><br>
-  🖥️ Currently working as a software developer at [Metta Innovations](https://mettainnovations.com.br) <br>
-  🎓 Pursuing my degree in Computer Science at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
-  💪🏻 Extensive experience in C/C++/Qt software development deployed in Linux environments <br>
-  💡 I've already worked professionally on computer vision, internet of things and embedded systems projects. <br>
-  📖 Currently experimenting with React and Node.js for web development. <br>
+  🖥️ Working as a Computer Vision Engineer at [Metta Innovations](https://mettainnovations.com.br) <br>
+  🎓 Bachelor of Computer Science from the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
+  💪🏻 4+ years of professional software development experience, 7+ years programming overall <br>
+  💡 Always striving to learn through side projects and hands-on tinkering <br>
 
 ##
 
   <div align = "center" style="display: inline_block">
     <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="Icon Qt" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
     <img align="center" alt="Icon Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" alt="Icon Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="Icon MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="Icon Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />    
     <img align="center" alt="Icon Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Icon JS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Icon Node" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Icon TS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Icon React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Icon Node" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
   </div> 
 
