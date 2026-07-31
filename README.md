@@ -1,6 +1,6 @@
 <samp>
 
-  <h1> Hello, i'm Artur!<h1/>
+  <h1> 👋 Hi, i'm Artur! </h1>
 
 ##
 
@@ -17,7 +17,7 @@
     <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Icon Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" alt="Icon Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Icon MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original.svg" />
+    <img align="center" alt="Icon Postgres" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Icon Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />    
     <img align="center" alt="Icon Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div> 
