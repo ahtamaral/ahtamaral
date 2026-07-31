@@ -5,9 +5,9 @@
 ##
 
   <b> About me: </b><br>
-  🖥️ Working as a Computer Vision Engineer at [Metta Innovations](https://mettainnovations.com.br) <br>
+  🖥️ Currently working as Software Engineer at [Supersim](https://www.supersim.com.br/), enabling personal credit for millions of customers in Brazil <br>
   🎓 Bachelor of Computer Science from the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
-  💪🏻 4+ years of professional software development experience, 7+ years programming overall <br>
+  💪🏻 5+ years of professional software engineering experience<br>
   💡 Always striving to learn through side projects and hands-on tinkering <br>
 
 ##
