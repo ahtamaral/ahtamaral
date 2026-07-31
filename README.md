@@ -1,15 +1,13 @@
 <samp>
 
-  <h1> 👋 Hi, i'm Artur! </h1>
-
 ##
 
   <b> About me: </b><br>
-  🖥️ Currently working as Software Engineer at [Supersim](https://www.supersim.com.br/), enabling personal credit for millions of customers in Brazil <br>
-  🎓 B.Sc.in Computer Science at [UFRJ](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro) <br>
+  🖥️ Currently working as Software Engineer at [Supersim](https://www.supersim.com.br/), enabling personal credit for millions of customers in Brazil. <br>
+  🎓 B.Sc.in Computer Science at [UFRJ](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro). <br>
   💪🏻 5+ years of professional software engineering experience<br>
   💡 Always striving to learn through side projects and hands-on tinkering <br>
-
+  
 ##
 
   <div align = "center" style="display: inline_block">
@@ -25,8 +23,8 @@
 ##
 
   <div align="center">
-    <img width="380" src="https://readme-stats-ten-pi.vercel.app/api?username=ahtamaral&show_icons=true&hide=issues&count_private=true">
-    <img width="auto" src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=ahtamaral&layout=compact&langs_count=4&hide=jupyter%20notebook">
+    <img width="380" src="https://readme-stats-ten-pi.vercel.app/api?username=ahtamaral&show_icons=true&theme=dracula&hide=issues&count_private=true">
+    <img width="auto" src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=ahtamaral&layout=compact&theme=dracula&langs_count=4&hide=jupyter%20notebook">
   </div> 
 
 ##
