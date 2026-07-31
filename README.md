@@ -6,7 +6,7 @@
 
   <b> About me: </b><br>
   🖥️ Currently working as Software Engineer at [Supersim](https://www.supersim.com.br/), enabling personal credit for millions of customers in Brazil <br>
-  🎓 Bachelor of Computer Science from the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
+  🎓 B.Sc.in Computer Science at [(UFRJ)](https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro) <br>
   💪🏻 5+ years of professional software engineering experience<br>
   💡 Always striving to learn through side projects and hands-on tinkering <br>
 
